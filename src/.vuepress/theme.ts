@@ -13,7 +13,6 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  // logo: "https://theme-hope-assets.vuejs.press/logo.svg",
   logo: "https://game.gtimg.cn/images/dfm/favicon.ico",
 
 
@@ -31,6 +30,8 @@ export default hopeTheme({
   footer: "个人练手",
   displayFooter: true,
 
+  //关闭“编辑此页”链接
+  editLink: false,
   // 加密配置
   encrypt: {
     config: {

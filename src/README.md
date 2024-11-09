@@ -2,7 +2,6 @@
 home: true
 icon: home
 title: 首页
-# heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroImage: https://game.gtimg.cn/images/dfm/favicon.ico
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
@@ -13,7 +12,7 @@ tagline: 自制三角洲小小速查清单
 actions:
   - text: 查看清单
     link: ./guide/
-    icon: lightbulb
+    icon: book
     type: primary
 
   # - text: 案例
@@ -23,7 +22,7 @@ actions:
 highlights:
   - header: 在 三角洲速查清单 中寻找你想要的信息
     description: 我补充了官方工具的一些不足，但确实需要的一些内容。
-    image: /assets/image/markdown.svg
+    image: /assets/image/box.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     bgImageStyle:
