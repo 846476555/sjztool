@@ -6,8 +6,8 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "文档演示",
-  description: "vuepress-theme-hope 的文档演示",
+  title: "By墨気",
+  description: "墨気的三角洲工具箱",
 
   theme,
 
