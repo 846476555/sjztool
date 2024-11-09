@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 首页
-heroImage: https://game.gtimg.cn/images/dfm/favicon.ico
+heroImage: favicon.ico
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
