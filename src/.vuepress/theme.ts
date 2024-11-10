@@ -13,6 +13,8 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
+  favicon: "favicon.ico",
+
   logo: "favicon.ico",
 
 
@@ -32,6 +34,8 @@ export default hopeTheme({
 
   //关闭“编辑此页”链接
   editLink: false,
+  contributors: false,
+  lastUpdated: false,
   // 加密配置
   encrypt: {
     config: {
